@@ -1,0 +1,26 @@
+{
+  "name": "lendsqr",
+  "version": "1.0.0",
+  "description": "A system that allows customers to create profile (imagine basic user bio data) and apply for loans.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicross615/lendsqr.git"
+  },
+  "author": "victor udedibor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicross615/lendsqr/issues"
+  },
+  "homepage": "https://github.com/vicross615/lendsqr#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^1.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
