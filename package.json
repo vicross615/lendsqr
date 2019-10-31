@@ -19,7 +19,7 @@
   "homepage": "https://github.com/vicross615/lendsqr#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "ejs": "^1.0.0",
+    "ejs": "^2.5.5",
     "express": "^4.17.1",
     "nodemon": "^1.19.1"
   }
